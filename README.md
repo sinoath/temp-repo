@@ -1,3 +1,3 @@
 # Temp repo
 
-description here
+This is the demo2 repo of Gwen Faraday tutorial
